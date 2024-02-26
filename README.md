@@ -39,6 +39,7 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" height="30" width="50">
 <img src="https://i.imgur.com/ZblTjWr.png" height="40" width="40">
 <img src="https://i.imgur.com/1HPG9T8.png" height="40" width="45">
+<img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
 <img src="https://i.imgur.com/mH7zbFv.png" height="40" width="40">
 <img src="https://i.imgur.com/5rZ98nY.png" height="40" width="40">
 <img src="https://i.imgur.com/tnKGVBX.png" height="40" width="40">
@@ -52,7 +53,8 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
 <img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
 <img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
-<img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
+<img src="https://i.imgur.com/mH7zbFv.png" height="40" width="40">
+<img src="https://i.imgur.com/5rZ98nY.png" height="40" width="40">
 <img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40">
 <img src="https://i.imgur.com/b65wQ01.png" height="40" width="40">
 <img src="https://i.imgur.com/0EZWddS.png" height="40" width="40">
