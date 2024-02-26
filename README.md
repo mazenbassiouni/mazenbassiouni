@@ -61,13 +61,9 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 
 <div align="left">
 
-<img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="laravel" src="https://img.shields.io/badge/Laravel-eb4432?style=for-the-badge&logo=laravel&logoColor=fff" />
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
   
@@ -76,7 +72,7 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 ## Contact Me
 
 <p align='center'>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eagle9995.an@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mazenbassiouni@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
