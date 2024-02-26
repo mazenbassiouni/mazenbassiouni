@@ -14,11 +14,11 @@
 
 | Languages| Current Challlenge| 🔭 Current project/s|
 |-----|---------|:--------:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitadixit&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->|<img src="https://user-images.githubusercontent.com/56997545/139825802-c7b0f3a0-b97b-4cd2-ab7f-42f16778f656.jpeg" width="200" height="200"/>| [![Medicare](https://github-readme-stats.vercel.app/api/pin/?username=IIITKalyaniFOSC&repo=MediCare-Prime)](https://github.com/IIITKalyaniFOSC/MediCare-Prime) <br/> [![Vcallzer](https://github-readme-stats.vercel.app/api/pin/?username=akshitadixit&repo=VCallZer)](https://github.com/akshitadixit/VCallZer) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazenbassiouni&layout=compact&theme=vision-friendly-dark)<!--&langs_count=6)-->|<img src="https://user-images.githubusercontent.com/56997545/139825802-c7b0f3a0-b97b-4cd2-ab7f-42f16778f656.jpeg" width="200" height="200"/>| [![Medicare](https://github-readme-stats.vercel.app/api/pin/?username=IIITKalyaniFOSC&repo=MediCare-Prime)](https://github.com/IIITKalyaniFOSC/MediCare-Prime) <br/> [![Vcallzer](https://github-readme-stats.vercel.app/api/pin/?username=mazenbassiouni&repo=VCallZer)](https://github.com/mazenbassiouni/VCallZer) |
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=darkblue
-[linkedin-url]: https://www.linkedin.com/in/akshitadixit/
+[linkedin-url]: https://www.linkedin.com/in/mazenbassiouni/
 
 <table align="center">
 <tbody>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td style="text-align:center">Socials</td>
-<td style="text-align:center"><a href="https://linkedin.com/in/akshitadixit"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin" title="LinkedIn"></a> <a href="https://twitter.com/plastic96_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter" title="Twitter"></a> <a href="mailto:akshitadixit.int@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail" title="G-Mail"></a> <a href="https://plastic96.medium.com/"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=medium" alt="medium" title="Medium"></a></td>
+<td style="text-align:center"><a href="https://linkedin.com/in/mazenbassiouni"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin" title="LinkedIn"></a> <a href="https://twitter.com/plastic96_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter" title="Twitter"></a> <a href="mailto:akshitadixit.int@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail" title="G-Mail"></a> <a href="https://plastic96.medium.com/"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=medium" alt="medium" title="Medium"></a></td>
 </tr>
 </tbody>
 </table>
