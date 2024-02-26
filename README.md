@@ -42,7 +42,7 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img src="https://i.imgur.com/tnKGVBX.png" height="40" width="40">
 <img src="https://imgur.com/mS2wjSR.png" height="40" width="40">
 <img src="https://imgur.com/9wk66mP.png" height="40" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" height="40" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" height="35" width="50">
 
 
 <br />
