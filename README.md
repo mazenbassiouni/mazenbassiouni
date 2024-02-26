@@ -31,9 +31,11 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img src="https://imgur.com/7sKVVgG.png" height="40" width="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40" width="40">
 <img src="https://i.imgur.com/3NP07nj.png" height="40" width="40">
+<img src="https://imgur.com/9wk66mP.png" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="40" width="40">
 <img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
 <img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" height="30" width="50">
 <img src="https://i.imgur.com/ZblTjWr.png" height="40" width="40">
 <img src="https://i.imgur.com/1HPG9T8.png" height="40" width="45">
 <img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
@@ -41,8 +43,6 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img src="https://i.imgur.com/5rZ98nY.png" height="40" width="40">
 <img src="https://i.imgur.com/tnKGVBX.png" height="40" width="40">
 <img src="https://imgur.com/mS2wjSR.png" height="40" width="40">
-<img src="https://imgur.com/9wk66mP.png" height="40" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" height="30" width="50">
 
 
 <br />
