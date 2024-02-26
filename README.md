@@ -9,9 +9,9 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 
   <br />
   
-![age](https://img.shields.io/badge/age-30-blueviolet)
+![age](https://img.shields.io/badge/age-31-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![projects](https://img.shields.io/badge/projects-33-important)
+![projects](https://img.shields.io/badge/projects-21-important)
 
   <br />
 
