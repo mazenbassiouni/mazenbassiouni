@@ -76,18 +76,9 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 ## Contact Me
 
 <p align='center'>
-  <a href="https://t.me/Eagle9461">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/fuAeAFJdbEPt">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eagle9995.an@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/eagle9995">
-    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 </div>
 
