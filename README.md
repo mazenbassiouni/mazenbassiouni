@@ -65,6 +65,7 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Livewire" src="https://img.shields.io/badge/Livewire-EE5D99?style=for-the-badge&logo=livewire&logoColor=FFF" />
+<img alt="Livewire" src="https://img.shields.io/badge/Alpine.js-4a4d54?style=for-the-badge&logo=alpine.js&logoColor=FFF" />
 
 </div>
   
