@@ -28,16 +28,12 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 
 <div align="center">
 
-<img src="https://imgur.com/7sKVVgG.png" height="40" width="40">
+<img src="https://imgur.com/7sKVVgG.png" height="40" width="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40" width="40">
 <img src="https://i.imgur.com/3NP07nj.png" height="40" width="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="40" width="40">
-<img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
 <img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
 <img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
-<img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
-<img src="https://i.imgur.com/uTwsATT.png" height="40" width="40">
-<img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
 <img src="https://i.imgur.com/VBd4aS3.png" height="40" width="40">
 <img src="https://i.imgur.com/KSZRGKH.png" height="45" width="40">
 <img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
