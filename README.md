@@ -40,7 +40,7 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img src="https://i.imgur.com/mH7zbFv.png" height="40" width="40">
 <img src="https://i.imgur.com/5rZ98nY.png" height="40" width="40">
 <img src="https://i.imgur.com/tnKGVBX.png" height="40" width="40">
-
+<img src="https://imgur.com/mS2wjSR.png" height="40" width="40">
 
 
 <br />
