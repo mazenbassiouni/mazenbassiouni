@@ -47,12 +47,8 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <img src="https://i.imgur.com/CfbGSw2.png" height="40" width="40">
 <img src="https://i.imgur.com/ydbeeyk.png" height="40" width="40">
 <img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
-<img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
-<img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
 <img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
 <img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
-<img src="https://i.imgur.com/4ryo0Qh.png" height="40" width="40">
-<img src="https://i.imgur.com/59p9PDP.png" height="40" width="40">
 <img src="https://i.imgur.com/DjzmcTo.png" height="40" width="40">
 <img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
 <img src="https://i.imgur.com/H3C168v.png" height="40" width="40">
