@@ -1,24 +1,24 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Let's go together. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" ></h1>
+<h1 align="center"> Let’s build great things together <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" ></h1>
 
-<h3 align="center">I'm an enthusiastic and passionate about web development</h3>  
+<h3 align="center">I’m an enthusiastic and passionate web developer</h3>  
 
 
-A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I love to work with a cross-functional team and I am learning how to improve the performance of progressive web applications for better user experience. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app. 
+A self-taught developer 👨‍🎓 who thrives in cross-functional teams. I focus on improving the performance of progressive web applications to deliver fast, seamless user experiences. I’m eager to contribute my skills to a fast-paced, quality-driven team and make a meaningful impact on web and mobile products.
 
   <br />
   
-![age](https://img.shields.io/badge/age-32-blueviolet)
+![age](https://img.shields.io/badge/age-33-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![projects](https://img.shields.io/badge/projects-31-important)
+![projects](https://img.shields.io/badge/projects-46-important)
 
   <br />
 
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m keeping up-to-date technologies by daily learning.
-- 👯 I’m looking to collaborate on PHP projects with other passionate developers.
-- ⚡ I'm a perfection addiction and productive.
+- 💡 I enjoy exploring new technologies and building practical software solutions and rapid prototypes.
+- 🌱 I stay up to date with modern technologies through continuous daily learning.
+- 👯 I’m looking to collaborate on projects with other passionate developers.
+- ⚡ I’m detail-oriented and highly focused on delivering clean, efficient, and productive work.
   
  </div>
 
@@ -27,7 +27,32 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-<a href="https://imgur.com/7sKVVgG.png"><img src="https://imgur.com/7sKVVgG.png" height="40" width="60"></a> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="40" width="40"></a> <a href="https://i.imgur.com/l3qPpNf.png"><img src="https://i.imgur.com/l3qPpNf.png" height="40" width="40"></a> <a href="https://i.imgur.com/3NP07nj.png"><img src="https://i.imgur.com/3NP07nj.png" height="40" width="40"></a> <a href="https://imgur.com/9wk66mP.png"><img src="https://imgur.com/9wk66mP.png" height="40" width="40"></a> <a href="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="40" width="40"></a> <a href="https://i.imgur.com/Uivesm4.png"><img src="https://i.imgur.com/Uivesm4.png" height="40" width="40"></a> <a href="https://i.imgur.com/KUlechH.png"><img src="https://i.imgur.com/KUlechH.png" height="40" width="40"></a> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" height="30" width="50"></a> <a href="https://i.imgur.com/ZblTjWr.png"><img src="https://i.imgur.com/ZblTjWr.png" height="40" width="40"></a> <a href="https://i.imgur.com/1HPG9T8.png"><img src="https://i.imgur.com/1HPG9T8.png" height="40" width="45"></a> <a href="https://i.imgur.com/wsUmcb5.png"><img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40"></a> <a href="https://i.imgur.com/tnKGVBX.png"><img src="https://i.imgur.com/tnKGVBX.png" height="40" width="40"></a> <a href="https://imgur.com/mS2wjSR.png"><img src="https://imgur.com/mS2wjSR.png" height="40" width="40"></a> <a href="https://i.imgur.com/CfbGSw2.png"><img src="https://i.imgur.com/CfbGSw2.png" height="40" width="40"></a> <a href="https://i.imgur.com/ydbeeyk.png"><img src="https://i.imgur.com/ydbeeyk.png" height="40" width="40"></a> <a href="https://i.imgur.com/054LTZq.png"><img src="https://i.imgur.com/054LTZq.png" height="45" width="45"></a> <a href="https://i.imgur.com/K5LeVnW.png"><img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60"></a> <a href="https://i.imgur.com/ehWaPTK.png"><img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40"></a> <a href="https://i.imgur.com/mH7zbFv.png"><img src="https://i.imgur.com/mH7zbFv.png" height="40" width="40"></a> <a href="https://i.imgur.com/5rZ98nY.png"><img src="https://i.imgur.com/5rZ98nY.png" height="40" width="40"></a> <a href="https://i.imgur.com/0BKuO1I.png"><img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40"></a> <a href="https://i.imgur.com/b65wQ01.png"><img src="https://i.imgur.com/b65wQ01.png" height="40" width="40"></a> <a href="https://i.imgur.com/0EZWddS.png"><img src="https://i.imgur.com/0EZWddS.png" height="40" width="40"></a>
+<img src="icons/php.png" height="40" width="60">
+<img src="icons/laravel.png" height="40" width="40">
+<img src="icons/codeigniter.png" height="40" width="40">
+<img src="icons/mysql.png" height="40" width="40">
+<img src="icons/composer.png" height="40" width="40">
+<img src="icons/wordpress.png" height="40" width="40">
+<img src="icons/livewire.png" height="40" width="40">
+<img src="icons/next.png" height="40" width="40">
+<img src="icons/react.png" height="40" width="40">
+<img src="icons/vue.png" height="40" width="40">
+<img src="icons/typescript.png" height="40" width="40">
+<img src="icons/alpine.png" height="40" width="45">
+<img src="icons/docker.png" height="40" width="40">
+<img src="icons/ubuntu.png" height="40" width="40">
+
+<br/>
+
+<img src="icons/tailwind.png" height="40" width="60">
+<img src="icons/sass.png" height="40" width="40">
+<img src="icons/postman.png" height="40" width="40">
+<img src="icons/git.png" height="40" width="40">
+<img src="icons/chromedevtools.png" height="40" width="40">
+<img src="icons/figma.png" height="40" width="40">
+<img src="icons/html5.png" height="40" width="40">
+<img src="icons/css3.png" height="40" width="40">
+<img src="icons/javascript.png" height="40" width="40">
 </div>
 
 <br /> 
@@ -37,10 +62,12 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 <div align="left">
 
 <img alt="laravel" src="https://img.shields.io/badge/Laravel-eb4432?style=for-the-badge&logo=laravel&logoColor=fff" />
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Livewire" src="https://img.shields.io/badge/Livewire-EE5D99?style=for-the-badge&logo=livewire&logoColor=FFF" />
-<img alt="Livewire" src="https://img.shields.io/badge/Alpine.js-4a4d54?style=for-the-badge&logo=alpine.js&logoColor=FFF" />
+<img alt="alpine" src="https://img.shields.io/badge/Alpine.js-4a4d54?style=for-the-badge&logo=alpine.js&logoColor=FFF" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="next.js" src="https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="react" src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=20232a" />
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=fff" />
 
 </div>
   
