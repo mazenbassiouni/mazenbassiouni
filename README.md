@@ -26,6 +26,15 @@ A self-taught, passionate and fast-learner full-stack developer 👨‍🎓. I l
 
 ## 👨‍💻 Languages and Tools
 
+<table align="center">
+  <tr>
+    <img src="https://imgur.com/7sKVVgG.png" height="40" width="60">
+    <img src="https://i.imgur.com/l3qPpNf.png" height="40" width="40">
+  </tr>
+
+  
+</table>
+
 <div align="center">
 
   <div>
